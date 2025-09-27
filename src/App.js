@@ -97,7 +97,7 @@ const App = () => {
           </button>
         </form>
         {status === 'success' && (
-          <p className="success-msg">Thank you for subscribing!</p>
+          <p className="success-msg">Thank you for subscribing :)</p>
         )}
         {status === 'error' && (
           <p className="error-msg">Subscription failed. Please try again.</p>
