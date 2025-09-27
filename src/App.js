@@ -57,7 +57,7 @@ const App = () => {
       {/* Hero Section */}
       <section className="hero">
         <h2 className="hero-title">
-          Free, AI-Driven Financial Advice<br/>
+          AI-Driven Educational And Entrepreneurial Advice<br/>
           Powered by Emotional Intelligence
         </h2>
         <p className="hero-subtitle">
@@ -71,8 +71,8 @@ const App = () => {
       {/* Features */}
       <section className="features">
         <div className="feature">
-          <h3>Free Financial Advisory</h3>
-          <p>Get emotionally-aware money tips and market insights for Free.</p>
+          <h3>Revolutionary AI Incubator & Consulting</h3>
+          <p>Empowering innovators and organizations with AI-driven software development, strategic consulting, and entrepreneurial acceleration.</p>
         </div>
         <div className="feature">
           <h3>Seamless Memory</h3>
@@ -107,7 +107,7 @@ const App = () => {
 
       {/* Footer */}
       <footer className="footer">
-        <p>&copy; 2024 oue.ai. All rights reserved.</p>
+        <p>&copy; 2023-2025 oue.ai. All rights reserved.</p>
       </footer>
     </div>
   );
